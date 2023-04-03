@@ -19,7 +19,7 @@
 * 👨‍💻 Currently working as an intern at Forgerock!
 * 📚 Studying in University of Manchester.
 * 🚀 Passionate about Java, Spring, Python, and other backend technologies.
-* 🐳 Currently learning more about Docker/k8s and looking into some Unity game dev.
+* 🐳 Currently learning more about Docker/k8s and looking into some chatgpt related development.
 * 💥 Feel free to reach for any fun project ideas or any questions!
 
 ![Aziz's github stats](https://github-readme-stats.vercel.app/api?username=aziz-serin&show_icons=true&hide_border=true&theme=dark)
