@@ -5,7 +5,6 @@
 </h1>
 
 <div align='center'>
-  <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20">
   <p align='center'>
     <a href="https://www.linkedin.com/in/aziz-serin-bb667a205"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
     <a href="mailto:azizserin313@gmail.com"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
