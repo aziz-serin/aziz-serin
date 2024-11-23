@@ -13,11 +13,9 @@
 
 [![Github Follow](https://img.shields.io/github/followers/aziz-serin?label=Follow%20Me&style=social)](https://github.com/aziz-serin)
 
-## About me
+## About Me
 
-* 📚 Studying in University of Manchester.
-* 🚀 Passionate about Java, Spring, Python, and other backend technologies.
-* 🐳 Currently learning more about Docker/k8s and looking into some generative AI models (like everyone else!).
+* 📚 Studied in University of Manchester.
 * 💥 Feel free to reach for any fun project ideas or any questions!
 
 ![Aziz's github stats](https://github-readme-stats.vercel.app/api?username=aziz-serin&show_icons=true&hide_border=true&theme=dark)
